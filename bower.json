@@ -1,0 +1,11 @@
+{
+  "name": "LightBulb",
+  "description": "Idea Management Solution",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dakotak/lightBulb",
+  "private": true,
+  "dependencies": {
+    "angular": "1.2.x",
+    "angular-resource": "1.2.x"
+  }
+}
